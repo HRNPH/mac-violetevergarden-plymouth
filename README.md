@@ -5,6 +5,8 @@ A macOS-like boot screen theme for Plymouth
 customized to violet evergarden theme
 
 ## Installation
+for fedora you can follow in this article
+https://fedoramagazine.org/howto-change-the-plymouth-theme/
 
 1. Clone this repo and then `cd` to it.
 
